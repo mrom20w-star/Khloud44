@@ -12,7 +12,7 @@ export const PLATFORM = {
   id: '1xbet',
   name: '1xBet',
   brandTitle: 'Khloud',
-  promoCode: 'ASD33',
+  promoCode: 'LM55',
   registrationUrl:
     'https://che.fluxbrox.com/redirect.aspx?bid=1484&lpid=223&pid=189305',
   telegramUrl: 'https://t.me/+-RZqYTzCFbphNjNk',
